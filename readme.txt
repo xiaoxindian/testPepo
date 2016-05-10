@@ -3,4 +3,4 @@ Git is free software distributed under the GPL;
 Git is pis;
 
 This is a new Brand;
-Creating a new branch is quick & simple.
+creating a new branch is quick AND simple;
